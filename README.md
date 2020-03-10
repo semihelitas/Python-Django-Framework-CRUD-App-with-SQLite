@@ -1,5 +1,6 @@
 # Python-Django-Framework-CRUD-App-with-SQLite
-> This is a Python Django Framework CRUD project for beginners. Simply keeps student information and exam scores in the SQLite database.
+> This is a Python Django Framework CRUD project for beginners.
+Simply keeps student information and exam scores in the SQLite database.
 
 ## SQLite Database
 Install 'DB Browser for SQLite' from [Download DB Browser for SQLite](https://sqlitebrowser.org/dl/)
